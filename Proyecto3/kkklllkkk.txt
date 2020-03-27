@@ -1,0 +1,66 @@
+.tendencia{
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    border: 2px solid gainsboro;
+    margin: 10px;
+    
+ 
+   
+ }
+
+
+<div class="tendencia">
+                Tendencia en República Dominicana
+                <strong>WhatsApp</strong><br>
+                175 mil Tweets<br>
+        </div>
+        
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>Rusia</strong><br>
+            13 mil Tweets<br>
+        </div>
+        
+        <div class="tendencia">
+        Tendencia en República Dominicana<br>
+        <strong>#ReinasdelCaribe</strong><br>
+        1.325 Tweets
+        </div>
+        
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>#LaFuerzaDelPueblo</strong><br>
+            2.236 Tweets
+        </div>
+        
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>#GonzaloCastillo</strong><br>
+            1.536 Tweets
+        </div> 
+
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>#LIDOM</strong><br>
+            1.536 Tweets
+        </div> 
+
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>#Haiti</strong><br>
+            500 Tweets
+        </div>
+        
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>LUIMI</strong><br>
+            100 Tweets
+        </div> 
+
+        <div class="tendencia">
+            Tendencia en República Dominicana
+            <strong>#ProyectoAngel</strong><br>
+            20 Tweets
+        </div> 
+            </div>

@@ -1,0 +1,198 @@
+*{
+    margin: 0; padding: 0;
+}
+
+.CuadroGrande{
+    width: 1200px;
+    height: 1500px;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+.PrimerCuadro{
+    height: 5%;
+    background-color: #14191A;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+.Menu{
+    height: 3.5%;
+    border-radius: 1em;
+    margin: 1em;
+}
+
+.Contenido{
+    height: 80%; 
+    margin: 1em;
+    margin-top: 1em;    
+}
+
+.Final{
+    height: 8%;
+    background-color: #14191A;
+    border-radius: 1em;
+    margin: 1em;
+    margin-top: 15%;
+    
+}
+
+.Informacion{
+    height: 100%;
+    width: 72%;
+    border-radius: 1em;
+    float: left;
+    margin: 0.5m;
+}
+
+.Publicidad{
+    height: 100%;
+    width: 27%;
+    border-radius: 1em;
+    float: right; 
+    margin: 0.5m;
+
+}
+
+.Logo{
+    width: 100%;
+    padding-left: 30%;
+    padding-top: 0.1%;
+}
+
+.Menu{
+    background-color: #14191A;
+}
+
+.Menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Menu ul li{
+    display: inline-block;
+}
+
+.Menu ul li a{
+    color: white;
+    display: block ;
+    text-decoration: none;
+    padding: 15px 100px;
+}
+
+.Menu ul li a:hover{
+    background-color: red;
+}
+
+.social-bar{
+    position: fixed;
+    right: 0;
+    top: 35%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 100;
+}
+
+.icon{
+    color: white;
+    text-decoration: none;
+    padding: .7rem;
+    display: flex;
+    transition: all .5s;
+
+}
+
+.Frase{
+    width: 50%;
+    height: 70px;
+    border-radius: 1em solid;
+    text-align: justify;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.table{
+    margin-top: 3em;
+    
+}
+
+.primerafoto{
+    height: 50%;
+    width: 80%;
+    margin:50px ;
+    margin-top: 10px;
+}
+
+.segundafoto{
+    height: 46%;
+    width: 80%;
+    margin:50px ;
+    margin-top:1%;
+}
+
+.bailes{
+    text-align: justify;
+}
+
+.ultimo{
+    margin: 5em;
+    color: white;
+    padding-top: 1em;
+    text-align: center;
+}
+
+.redes{
+    float: right;
+    margin-top: 1px;
+}
+
+.mapa{
+    margin-top: 35px;
+    text-align: justify;
+}
+
+.foto{
+    width: 30%;
+    float: right;
+    margin-top: 3%;
+    text-align: center;
+    margin-right: 34%; 
+}
+
+.infonosotros{
+    text-align: center;
+    margin-top: 38%;
+}
+
+.klk{
+    text-align: justify;
+    margin-top: 35px;
+}
+
+.esperamos{
+    width: 60%;
+    height: 40%;
+    margin: 25%;
+    margin-top: 4%;
+
+}
+
+.cuadritos{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.oferta{
+    font-style: italic;
+    text-align: center;
+    margin-top: 2%;
+    
+}
